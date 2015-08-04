@@ -1,0 +1,13 @@
+{
+  "name": "testBower",
+  "homepage": "https://github.com/g3r4n/testBowerDependancies",
+  "_release": "74e0856462",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "74e085646284ef877716facaeb478c61784cdcda"
+  },
+  "_source": "git://github.com/g3r4n/testBowerDependancies.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/g3r4n/testBowerDependancies"
+}
